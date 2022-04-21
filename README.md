@@ -8,44 +8,44 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ## Results: 
 
 ### Random Over Sampler:
-    - Accuracy Score: 0.66143
-    - Precision: 0.01
-    - Recall: 0.72
+- Accuracy Score: 0.66143
+- Precision: 0.01
+- Recall: 0.72
 
 ![ROS image](/screenshots/RandomOversampler.PNG)
 
 ### SMOTE:
-    - Accuracy Score: 0.65811
-    - Precision: 0.01
-    - Recall: 0.62
+- Accuracy Score: 0.65811
+- Precision: 0.01
+- Recall: 0.62
 
 ![SMOTE image](/screenshots/SMOTE.PNG)
 
 ### ClusterCentroids
-    - Accuracy Score: 0.54778
-    - Precision: 0.01
-    - Recall: 0.66
+- Accuracy Score: 0.54778
+- Precision: 0.01
+- Recall: 0.66
 
 ![CC image](/screenshots/ClusterCentroids.PNG)
 
 ### SMOTEENN
-    - Accuracy Score: 0.67107
-    - Precision: 0.01
-    - Recall: 0.77
+- Accuracy Score: 0.67107
+- Precision: 0.01
+- Recall: 0.77
 
 ![SMOTEENN image](/screenshots/SMOTEENN.PNG)
 
 ### Balanced Random Forest Classifier
-    - Accuracy Score: 0.72844
-    - Precision: 0.06
-    - Recall: 0.50
+- Accuracy Score: 0.72844
+- Precision: 0.06
+- Recall: 0.50
 
 ![BRFC image](/screenshots/BalancedRandomForest.PNG)
 
 ### Easy Ensemble Classifier
-    - Accuracy Score: 0.93167
-    - Precision: 0.09
-    - Recall: 0.92
+- Accuracy Score: 0.93167
+- Precision: 0.09
+- Recall: 0.92
 
 ![EEC image](/screenshots/EasyEnsemble.PNG)    
 
